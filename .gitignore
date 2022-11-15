@@ -1,0 +1,7 @@
+#vscode
+.vscode/
+
+# C extensions
+*.so
+*.o
+*.out
