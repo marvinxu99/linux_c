@@ -1,3 +1,10 @@
+/*
+    https://stackoverflow.com/questions/41715442/invalid-cast-from-gtkbutton-to-gtkentry
+    
+    https://stackoverflow.com/questions/22402597/why-does-gobject-method-still-get-called-even-if-callback-arguments-dont-match/22419961#22419961
+
+*/
+
 #include <gtk/gtk.h>
 
 static void btn_clicked(GtkWidget *widget, gpointer data)
