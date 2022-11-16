@@ -1,0 +1,15 @@
+GtkWindow {
+    background-color: magenta;
+    color: black;
+    border-width: 3px;
+    border-color: blue;
+}
+
+#myGrid {
+    background-color: red;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 15px;
+    border-color: grey;
+}

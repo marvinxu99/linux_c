@@ -1,5 +1,5 @@
 /*
-gcc `pkg-config --cflags gtk+-3.0` gtk_example.c -o gtk_example.out `pkg-config --libs gtk+-3.0
+gcc `pkg-config --cflags gtk+-3.0` gtk_example.c -o gtk_example.out `pkg-config --libs gtk+-3.0`
 
 
 echo $(pkg-config --libs gtk+-3.0)
